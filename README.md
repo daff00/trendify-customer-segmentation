@@ -48,7 +48,7 @@ The analysis is based on the **"Online Retail"** dataset from the UCI Machine Le
 ### 1. Sales Trend Analysis
 Sales show a significant upward trend, peaking sharply in November of each year, likely due to holiday season shopping.
 
-`![Sales Trend](./reports/figures/sales_trend.png)`
+`![Sales Trend](/reports/figures/sales_trend.png)`
 
 ### 2. Top Performing Products by Sales
 The analysis identified a core set of products that are major driver of sales, with "REGENCY CAKESTAND 3 TIER" being the clear leader on top.
