@@ -63,7 +63,7 @@ The analysis identified a core set of products that are major drivers of sales q
 ### 4. Customer's Origin
 Most of customers are based on UK.
 
-![Customer Origin](./reports/figures/cusotomer_origins.png)
+![Customer Origin](./reports/figures/customer_origins.png)
 
 ### 5. Customer Segmentation with K-Means
 Four distinct customer segments were identified, each with unique purchasing characteristics. The 3D plot below visualizes these clusters based on their RFM values.
