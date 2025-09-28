@@ -1,5 +1,5 @@
 # Python .env folder
-.env/
+notebooks/env/
 
 # PowerBI File
 *.pbix
