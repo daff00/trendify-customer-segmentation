@@ -48,33 +48,26 @@ The analysis is based on the **"Online Retail"** dataset from the UCI Machine Le
 ### 1. Sales Trend Analysis
 Sales show a significant upward trend, peaking sharply in November of each year, likely due to holiday season shopping.
 
-**
 `![Sales Trend](./reports/figures/sales_trend.png)`
 
 ### 2. Top Performing Products by Sales
 The analysis identified a core set of products that are major driver of sales, with "REGENCY CAKESTAND 3 TIER" being the clear leader on top.
 
-**
 `![Top Products by Sales](./reports/figures/top_sales.png)`
 
 ### 3. Top Performing Products by Quantity
 The analysis identified a core set of products that are major drivers of sales quantity, with "World War 2 Gliders Asstd Designs" being the clear leader of top sales quantity.
-
-**
 
 `![Top Products by Quantity](./reports/figures/top_volume.png)`
 
 ### 4. Customer's Origin
 Most of customers are based on UK.
 
-**
-
 `![Customer Origin](./reports/figures/cusotomer_origins.png)`
 
 ### 5. Customer Segmentation with K-Means
 Four distinct customer segments were identified, each with unique purchasing characteristics. The 3D plot below visualizes these clusters based on their RFM values.
 
-**
 `![Customer Segments](./reports/figures/rfm_3d_cluster.png)`
 
 
