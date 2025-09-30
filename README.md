@@ -1,5 +1,7 @@
 # Trendify E-commerce Sales Analysis & Customer Segmentation
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+
 ## 📖 Project Overview
 
 This project performs an in-depth analysis of a UK-based online retailer's sales data from 2009 to 2011. The primary goals are to uncover sales patterns, identify top-performing products and key customer demographics, and segment customers based on their purchasing behavior using RFM analysis and K-Means clustering. The final output provides actionable recommendations to enhance marketing strategies and drive business growth.
